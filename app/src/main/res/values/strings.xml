@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tecnológico de Chetumal</string>
+    <string name="musica_preferida">MUSICA PREFERIDA</string>
+    <string name="textview">TextView</string>
+    <string name="kendrick_lamar"><a href="https://www.youtube.com/watch?v=8aShfolR6w8">Kendrick Lamar</a></string>
+    <string name="the_weeknd"><a href = "https://www.youtube.com/watch?v=34Na4j8AVgA">The Weeknd </a></string>
+    <string name="albumenes">ALBUMENES</string>
+    <string name="alive">alive</string>
+    <string name="damn">damn</string>
+    <string name="rumours">rumours</string>
+    <string name="escritores">ESCRITORES</string>
+    <string name="tame_impala"><a href="https://www.youtube.com/watch?v=kgNBO2cBJGU"> Tame Impala </a></string>
+    <string name="listen_my_playlist"><a href="https://open.spotify.com/playlist/3YaXpBarl3JdJZUypplKP0?si=-wK5AROaTkaJwH105YK6uA" >Listen My PlayList</a></string>
+</resources>
